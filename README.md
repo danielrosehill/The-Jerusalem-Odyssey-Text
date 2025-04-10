@@ -8,7 +8,7 @@
 
 | File | Description |
 |------|-------------|
-| [Generated Text](/text/generated-text.md) | The AI-generated story output from the experiment |
+| [Generated Text](/text/generated-text.md) | The AI-generated story output from the experiment (unedited) |
 | [System Prompt](/prompts/system-prompt.md) | The system instructions given to the AI model |
 | [User Prompt](/prompts/user-prompt.md) | The creative prompt containing the story premise |
 | [Prompt Script](/prompts/prompt.py) | Python script used to format and send prompts to the AI |
@@ -31,8 +31,4 @@ The generated work of fiction is quite a fascinating outgrowth of my prompt, I t
  While its word count means that it falls in a literary gray zone, it's almost .... sort of a short book. 
 
 The text, as well as some AI authors appendages to it are included here as an archive of this experiment.
-
-## Cover Art
-
-
-![alt text](Ebook-Cover-V2.png)
+ 
